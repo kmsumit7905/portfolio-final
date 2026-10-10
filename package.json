@@ -1,0 +1,19 @@
+{
+  "name": "portfolio777",
+  "version": "1.0.0",
+  "description": "A modern, responsive, and professional personal portfolio website for **Sumit Kumar**, BCA Final-Year Student at Integral University and aspiring Software Developer / Java Backend Developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "nodemailer": "^10.0.16"
+  }
+}
